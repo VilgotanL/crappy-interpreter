@@ -1,0 +1,47 @@
+body {
+    background-color: deeppink;
+    height: 100%;
+}
+html {
+    height: 100%;
+}
+
+.input {
+    width: 100%;
+    min-height: 40%;
+    background-color: aqua;
+    margin-left: 30px;
+    color: orangered;
+    font-size: 3em;
+    font-family: 'Comic Sans MS';
+    line-height: 1.8em;
+}
+
+.output {
+    border: 25px solid green;
+    min-width: 40%;
+    word-break: break-all;
+    white-space: pre-wrap;
+    color: lawngreen;
+    font-size: 2em;
+    margin-left: 5px;
+    font-family: 'Comic Sans MS';
+}
+
+h1 {
+    margin-bottom: 0;
+}
+
+.btn {
+    font-size: 6.9em;
+    background-color: lawngreen;
+    border-width: 5px;
+}
+.btn:hover {
+    font-size: 6.7em;
+    background-color: red;
+}
+.btn:active {
+    font-size: 6.99em;
+    background-color: darkkhaki;
+}
