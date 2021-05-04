@@ -1,0 +1,2 @@
+# crappy-interpreter
+yes
